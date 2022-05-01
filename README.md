@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A super duper simple Tic-Tac-Toe Game using Java programming language ( SinglePlayer [vs computer] , Mutiplayer )
+A super duper simple Tic-Tac-Toe Game using Java programming language ( SinglePlayer [vs computer] , Mutiplayer [vs player next to you] )
